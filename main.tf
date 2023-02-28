@@ -20,6 +20,7 @@ tags = {
 Name = "US-INSTANCE"
 Environment = "DEV"
 }
+count = 5
 root_block_device{
 volume_size = 10
 }
