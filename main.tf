@@ -1,14 +1,14 @@
 provider "aws"{
 region = "us-east-1"
-access_key = "AKIAWYJVMLUM5LZIAUXU"
-secret_key = "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"
+access_key = ""
+secret_key = "/"
 }
 
 provider "aws"{
 region = "ap-south-1"
 alias = "mumbai"
-access_key = "AKIAWYJVMLUM5LZIAUXU"
-secret_key = "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"
+access_key = ""
+secret_key = "/"
 }
 
 
